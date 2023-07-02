@@ -1,2 +1,2 @@
-# vicc-firmware-psp
-a custom firmware for PSP
+# Bosy OS for PSP
+a custom OS for PSP
